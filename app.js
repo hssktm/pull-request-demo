@@ -1,10 +1,10 @@
 /*
   app.js
-
+UN NUEVO CAMBIO PAR ACA 
   Esta aplcación imprime los nombre de los colaboradores que se meten al repositorio en Github y abren un pull request.
 */
 const colaboradores = [
-    {nombre: "Laura AC", twitter: "@lac"},
+  {nombre: "Laura AC", twitter: "@lac"}, 
     {nombre: "Prueba Lab", twitter: "@prueba-lab"},
     {nombre: "Khris Parrales", twitter: "@khrisparrales"},
     {nombre: "Cliber Castillo", twitter: "@CastilloCliber"},
@@ -45,7 +45,7 @@ const colaboradores = [
     {nombre: "Jorge Cruz", twitter:"@IDon'tHave"},
     {nombre: "Juan Morales", instagram:"@jmorales"}, 
     {nombre: "Juan Morales", instagram:"@jmorales"}, 
-    {nombre: "Juan Morales", instagram:"@jmorales"},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+    {nombre: "Juan Morales", instagram:"@jmorales"},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ];
 
 console.log('Esta es la lista de colaboradores en este proyecto');
