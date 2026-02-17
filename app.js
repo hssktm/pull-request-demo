@@ -1,6 +1,6 @@
 /*
   app.js
-
+ nuevo camb
   Esta aplcación imprime los nombre de los colaboradores que se meten al repositorio en Github y abren un pull request.
 */
 const colaboradores = [
