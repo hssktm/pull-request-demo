@@ -45,7 +45,7 @@ const colaboradores = [
     {nombre: "Jorge Cruz", twitter:"@IDon'tHave"},
     {nombre: "Juan Morales", instagram:"@jmorales"}, 
     {nombre: "Juan Morales", instagram:"@jmorales"}, 
-    {nombre: "Juan Morales", instagram:"@jmorales"}
+    {nombre: "Juan Morales", instagram:"@jmorales"},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ];
 
 console.log('Esta es la lista de colaboradores en este proyecto');
