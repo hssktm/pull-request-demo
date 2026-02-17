@@ -1,6 +1,6 @@
 /*
   app.js
-UN NUEVO CAMBIO PAR ACA 
+UN NUEVO CAMBIO PAR ACA sad adsadsa das ds da dasd aasd
   Esta aplcación imprime los nombre de los colaboradores que se meten al repositorio en Github y abren un pull request.
 */
 const colaboradores = [
